@@ -1,0 +1,12 @@
+h1{
+  color:red;
+  text-align: center;
+}
+
+p{
+  color: #945c12;
+}
+table{border: 2px solid black;border-collapse: collapse;
+width: 50%;}
+th,td{border: 1px solid black; padding:5px;text-align: center;}
+th{background-color: lightgray}
